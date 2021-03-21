@@ -1,0 +1,9 @@
+{
+  "name": "stim1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/grichardsldn/stim1.git",
+  "author": "Graham Richards <grahamdrichards@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
